@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754552037528",
+    "project_id": "domaci3-f1eec",
+    "storage_bucket": "domaci3-f1eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754552037528:android:34cd4d2965e41bbf8ab0ed",
+        "android_client_info": {
+          "package_name": "com.example.domaci3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754552037528-ngl53ev1ql71i0l3bi62ghg7q05hreno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpE7wscLGUMsimeqH_rKwq3wlwzB34hfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754552037528-ngl53ev1ql71i0l3bi62ghg7q05hreno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
